@@ -1,0 +1,15 @@
+E:\ДОКУМЕНТЫ\ФП\CourseFP\CourseFP\bin\Debug\net6.0\CourseFP.exe
+E:\ДОКУМЕНТЫ\ФП\CourseFP\CourseFP\bin\Debug\net6.0\CourseFP.deps.json
+E:\ДОКУМЕНТЫ\ФП\CourseFP\CourseFP\bin\Debug\net6.0\CourseFP.runtimeconfig.json
+E:\ДОКУМЕНТЫ\ФП\CourseFP\CourseFP\bin\Debug\net6.0\CourseFP.dll
+E:\ДОКУМЕНТЫ\ФП\CourseFP\CourseFP\bin\Debug\net6.0\CourseFP.pdb
+E:\ДОКУМЕНТЫ\ФП\CourseFP\CourseFP\obj\Debug\net6.0\CourseFP.csproj.AssemblyReference.cache
+E:\ДОКУМЕНТЫ\ФП\CourseFP\CourseFP\obj\Debug\net6.0\CourseFP.GeneratedMSBuildEditorConfig.editorconfig
+E:\ДОКУМЕНТЫ\ФП\CourseFP\CourseFP\obj\Debug\net6.0\CourseFP.AssemblyInfoInputs.cache
+E:\ДОКУМЕНТЫ\ФП\CourseFP\CourseFP\obj\Debug\net6.0\CourseFP.AssemblyInfo.cs
+E:\ДОКУМЕНТЫ\ФП\CourseFP\CourseFP\obj\Debug\net6.0\CourseFP.csproj.CoreCompileInputs.cache
+E:\ДОКУМЕНТЫ\ФП\CourseFP\CourseFP\obj\Debug\net6.0\CourseFP.dll
+E:\ДОКУМЕНТЫ\ФП\CourseFP\CourseFP\obj\Debug\net6.0\refint\CourseFP.dll
+E:\ДОКУМЕНТЫ\ФП\CourseFP\CourseFP\obj\Debug\net6.0\CourseFP.pdb
+E:\ДОКУМЕНТЫ\ФП\CourseFP\CourseFP\obj\Debug\net6.0\CourseFP.genruntimeconfig.cache
+E:\ДОКУМЕНТЫ\ФП\CourseFP\CourseFP\obj\Debug\net6.0\ref\CourseFP.dll
